@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 
 class Jogo extends StatefulWidget {
   const Jogo({Key? key}) : super(key: key);
-
   @override
   State<Jogo> createState() => _JogoState();
 }
